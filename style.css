@@ -1,0 +1,90 @@
+/* style.css */
+
+/* Add your custom styles here */
+
+.bg-black {
+    background-color: #000;
+  }
+  
+  .text-lime-yellow {
+    color: rgb(239, 255, 64);
+  }
+  
+  
+  /* style.css */
+
+
+
+/* Food Section */
+#food-section {
+    padding: 80px 0;
+  }
+  
+  .card {
+    margin-bottom: 30px;
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .card-title {
+    margin-bottom: 10px;
+  }
+  
+  .card-text {
+    color: #777;
+  }
+  
+ /* style.css */
+
+
+
+/* Hero Section */
+#hero-section {
+    padding: 100px 0;
+  }
+  
+  .carousel-item img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+  }
+  
+  /* Delivery Section */
+  #delivery-section {
+    padding: 80px 0;
+  }
+  
+  /* Payment Section */
+  #payment-section {
+    padding: 80px 0;
+  }
+  
+  /* About Section */
+  #about-section {
+    padding: 80px 0;
+  }
+  
+  /* Contact Section */
+  #contact-section {
+    padding: 80px 0;
+  }
+  
+  /* Footer Section */
+  footer {
+    padding: 30px 0;
+  }
+  
+
+  
+  
+  
